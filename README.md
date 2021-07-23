@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to 3lit3h4xx0r666's Home Page
 
 ## Links 
