@@ -24,6 +24,3 @@
 [https://prtship.is]
 
 
-## ebook library
-[entire library](https://mega.nz/#fm/1poW0ToZ)
-[carding stuff](https://mega.nz/#fm/YgB3DajI)
