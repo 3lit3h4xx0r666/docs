@@ -2,5 +2,5 @@
 
 ## Links 
 
-  - [Online Work Resources](https://3lit3h4xx0r666.github.io/docs/onlinework.md)
+  - [Online Work Resources](https://3lit3h4xx0r666.github.io/docs/onlinework)
 
