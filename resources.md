@@ -4,7 +4,7 @@
 
 I've experimented with a wide variety of search engines, and my opinion is that for everyday use, your best options are [yandex.com](https://yandex.com) and [google.com](https://google.com) the latter is heavily censored but more user-friendly. I ususally start with google and go to yandex if I don't find what I'm looking for. In case you are not familiar, [Yandex is a Russian company](https://handwiki.org/wiki/Yandex_Search) that fills the same niche as google does in the USA. 
 
-* note: If you find it strange that a Russian search engine is less heavily censored than an american one, this is a sign that your mind has been infected by propaganda. You should run a complete scan, critically evaluating each fact that form the basis of all of your long-held beliefs. US drug policy is a good starting point. *
+*note: If you find it strange that a Russian search engine is less heavily censored than an american one, this is a sign that your mind has been infected by propaganda. You should run a complete scan, critically evaluating each fact that form the basis of all of your long-held beliefs. US drug policy is a good starting point.*
 
 ### Search engine guides
 If you read nothing else on the topic of search engines, read these. 
