@@ -1,5 +1,11 @@
 # Welcome to 3lit3h4xx0r666's Home Page
 
+I put this site together for my friends who are less steeped in technology than those of us in the industry. 
+
+I got tired of feeling the need to rewrite the same notes and details to the question, 
+"what was that thing you were talking about?" so I've begun to collect them all here. 
+
+
 ## Links 
 
   - [General resources](https://3lit3h4xx0r666.github.io/docs/resources)
